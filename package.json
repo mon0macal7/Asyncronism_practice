@@ -1,0 +1,31 @@
+{
+  "name": "asyncronism",
+  "version": "1.0.0",
+  "description": "practice with Asyncronism",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js",
+    "callback:challenge": "node src/callback/challenge.js",
+    "Promise": "node src/promise/index.js",
+    "Promise:challenge": "node src/Promise/challenge.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mon0macal7/Asyncronism_practice.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promises",
+    "async",
+    "await"
+  ],
+  "author": "Monica Macal",
+  "license": "MIT ",
+  "bugs": {
+    "url": "https://github.com/mon0macal7/Asyncronism_practice/issues"
+  },
+  "homepage": "https://github.com/mon0macal7/Asyncronism_practice#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
